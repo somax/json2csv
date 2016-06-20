@@ -5,6 +5,11 @@ Convert JSON array to CSV strings
 ## Usage
 
 ```
+$ npm install somax/json2csv  --save
+```
+
+## Example
+```
 var fs = require('fs'),
     json2csv = require('json2csv');
 
