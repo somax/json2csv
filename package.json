@@ -1,0 +1,27 @@
+{
+  "name": "json2csv",
+  "version": "0.1.0",
+  "description": "json convert to csv",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "json",
+    "csv",
+    "convert"
+  ],
+  "author": "MaXiaojun <somaxj@163.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/somax/json2csv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/somax/json2csv/issues"
+  },
+  "homepage": "https://github.com/somax/json2csv#readme"
+}
